@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+*.pyc
+output.xlsx
+*.png
+*.ipynb
+output.csv
+*.ipynb
+*.pickle
+input.csv
+payouts.csv
+tm_results.csv
