@@ -21,4 +21,4 @@ v1.0 Streamlitを使って予想印の成績を可視化
 pip install -r requirements.txt
 
 2. ダッシュボード起動
-streamlit run dashboard.py
+streamlit run app.py
